@@ -3,3 +3,5 @@
 
 ![View/download report](
 https://github.com/rizsocial/Accounting/blob/main/Inventory%20management%20and%20financial%20analysis/2.%20Accounting%20project.xlsx)
+
+https://github.com/rizsocial/Accounting/blob/main/Inventory%20management%20and%20financial%20analysis/2.png
